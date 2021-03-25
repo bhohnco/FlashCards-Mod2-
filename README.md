@@ -1,9 +1,11 @@
 #Flash Cards
 
 ###Overview
+
 This was a solo project, provided in mod 2. The project was to take a partial OOP application and make it fully functional. We were tasked with building a program that simulates quizing a user through a set of flash cards. A user can see the questions, take their guess, receive immediate answer feedback, and lastly view their final score at the end of the round.
 
 ###Learning Goals and Objectives
+
 * Contribute code to an partially constructed object-oriented application
 * Follow spec/prompts to make a working application
 * Implement ES6 classes
@@ -11,6 +13,7 @@ This was a solo project, provided in mod 2. The project was to take a partial OO
 * Implement a robust testing suite using TDD
 
 ###Setup
+
 1. Fork and clone down this repository.
 2. cd into your local repository.
 3. Run npm install.
