@@ -33,7 +33,7 @@ This was a solo project, provided in mod 2. The project was to take a partial OO
 ### FlashCards in action
 
 #### Start of Game
-
+![](http://g.recordit.co/pbbd3IsRvb.gif)
 #### Game play
 
 #### Game restart based on user score 
