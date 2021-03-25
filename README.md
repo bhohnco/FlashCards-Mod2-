@@ -34,8 +34,10 @@ This was a solo project, provided in mod 2. The project was to take a partial OO
 
 #### Start of Game
 ![](http://g.recordit.co/pbbd3IsRvb.gif)
-#### Game play
+
+#### User score of 100% correct 
+![](http://g.recordit.co/YkvX78Im2v.gif)
 
 #### Game restart based on user score 
-
+![](http://g.recordit.co/jgnpR4mOR5.gif)
 
